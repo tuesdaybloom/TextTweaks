@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TextTweaks.com/static/css/main.4da404d8.css",
-    "main.js": "/TextTweaks.com/static/js/main.dad2ac33.js",
-    "index.html": "/TextTweaks.com/index.html",
-    "main.4da404d8.css.map": "/TextTweaks.com/static/css/main.4da404d8.css.map",
-    "main.dad2ac33.js.map": "/TextTweaks.com/static/js/main.dad2ac33.js.map"
+    "main.css": "/TextTweaks/static/css/main.4da404d8.css",
+    "main.js": "/TextTweaks/static/js/main.dad2ac33.js",
+    "index.html": "/TextTweaks/index.html",
+    "main.4da404d8.css.map": "/TextTweaks/static/css/main.4da404d8.css.map",
+    "main.dad2ac33.js.map": "/TextTweaks/static/js/main.dad2ac33.js.map"
   },
   "entrypoints": [
     "static/css/main.4da404d8.css",
