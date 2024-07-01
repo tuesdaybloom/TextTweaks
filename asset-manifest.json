@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TextTweaks/static/css/main.4da404d8.css",
-    "main.js": "/TextTweaks/static/js/main.dad2ac33.js",
+    "main.js": "/TextTweaks/static/js/main.dbec1e59.js",
     "index.html": "/TextTweaks/index.html",
     "main.4da404d8.css.map": "/TextTweaks/static/css/main.4da404d8.css.map",
-    "main.dad2ac33.js.map": "/TextTweaks/static/js/main.dad2ac33.js.map"
+    "main.dbec1e59.js.map": "/TextTweaks/static/js/main.dbec1e59.js.map"
   },
   "entrypoints": [
     "static/css/main.4da404d8.css",
-    "static/js/main.dad2ac33.js"
+    "static/js/main.dbec1e59.js"
   ]
 }
