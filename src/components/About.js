@@ -2,7 +2,7 @@ import React from 'react'
 
 function About(props) {
   return (
-    <div className={`container p-4 my-3 border border-${props.emode==='light'?'dark':'light'} rounded text-${props.mode} `} style={{ backgroundColor: props.emode === 'light' ? '#ffffff' : '#111122' }}>
+    <div className={`container p-4 m-3 border border-${props.emode==='light'?'dark':'light'} rounded text-${props.mode} `} style={{ backgroundColor: props.emode === 'light' ? '#ffffff' : '#111122' }}>
       <h2 className='text-center'>Know TextTweaks!!</h2>
       <ul className='custom-bullet mt-4'>
       <li><h4> On Click text transitions.</h4></li>

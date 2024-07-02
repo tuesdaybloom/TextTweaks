@@ -79,7 +79,7 @@ export default function TextForm(props) {
         <h2 className={`text-${props.mode}`}>Enter Text to Analyze</h2>
 
         <textarea
-          className="form-control mt-5 mb-3"
+          className="form-control mt-2 mb-3"
           id="exampleFormControlTextarea1"
           rows="15"
           onChange={handleOnChange}
