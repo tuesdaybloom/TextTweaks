@@ -7,10 +7,6 @@ export default function Navbar(props) {
     <nav className={`navbar navbar-expand-lg navbar-${props.mode} bg-${props.mode}`}>
   <div className="container-fluid">
     <a className="navbar-brand" href="#">{props.title}</a>
-    
-    <div className="collapse navbar-collapse" id="navbarSupportedContent">
-     
-    </div>
     <div className="d-flex flex-md-row flex-column">
     <Theme cmode={props.mode}/>
     <div className={`form-check form-switch text-${props.mode==='light'?'dark':'light'} mx-2`}>
@@ -26,9 +22,6 @@ export default function Navbar(props) {
           </label>
       </div>
       </div>
-      <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span className="navbar-toggler-icon"></span>
-    </button>
   </div>
 </nav>
   );
